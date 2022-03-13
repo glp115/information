@@ -1,0 +1,14 @@
+
+1. Install Bouyomichan from X
+2. Download Aquestalk from Y
+3. Install Aquestalk 1 into Bouyomichan subfolder Z
+4. Open Win10 Control Panel (search for Control Panel)
+5. Open Language+Region settings
+6. Select Region Settings
+7. Select Administrative Settings
+8. Select Change system Locale for programs that do not support unicode
+9. Set "Japan".
+
+Restart windows.
+
+Now F1/F2/etc should all work.
